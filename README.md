@@ -19,11 +19,11 @@
 
 ### Squad
 
-- Pessoa Co-facilitadora: Wash
-- Pessoa Gestora de Conhecimento: Eloise
-- Pessoa Gestora de Gente e Engajamento: Gabriela
-- Pessoa Colaboradora I: Isadora
-- Pessoa Colaboradora II: João Guilherme
+- Pessoa Co-facilitador: Washington Luis
+- Pessoa Gestora de Conhecimento: Eloise Monteiro
+- Pessoa Gestora de Gente e Engajamento: Gabriela Rocha
+- Pessoa Colaboradora I: Isadora Grigorio
+- Pessoa Colaborador II: João Guilherme
 
 ## Detalhes do Projeto
 
