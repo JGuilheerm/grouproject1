@@ -12,9 +12,10 @@
 
 - Verifique se tem o Python instalado em sua máquina. Você pode baixá-lo em [python.org](https://www.python.org/)
 - Baixe o projeto em sua máquina e o inicie
-- Execute o script no arquivo main.py
+- Execute o script no arquivo index.py
 - Siga as instruções no terminal para inserir os dados da pesquisa
-- Para encerrar, digite '00' quando solicitado a idade.
+- Para encerrar, digite '00' quando solicitado a idade
+- Confira os dados digitados na planilha
 
 ### Squad
 
