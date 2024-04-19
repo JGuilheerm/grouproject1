@@ -14,9 +14,9 @@ class Pergunta:
                     break
                 
                 while True:
-                        genero = input("\nInforme seu gênero (M/F):\n ").upper()
-                        if genero not in ['M', 'F']:
-                            print("Gênero deve ser 'M' para masculino ou 'F' para feminino. Por favor, tente novamente.")
+                        genero = input("\nInforme seu gênero (M/F/O):\n ").upper()
+                        if genero not in ['M', 'F', 'O']:
+                            print("Gênero deve ser 'M' para masculino, 'F' para feminino ou 'O' para outros. Por favor, tente novamente.")
                         else:
                             break
                             
